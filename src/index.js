@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import API_KEY from './config';
 
 const App = () => {
         return (
